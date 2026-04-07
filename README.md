@@ -181,10 +181,6 @@ Por isso, o projeto também explora a reconstrução das árvores com:
 │   ├── Agregados_por_bairros_renda_responsavel_BR.xlsx
 │   ├── Agregados_por_setores_renda_responsavel_BR.xlsx
 │   └── BR_Municipios_2024/
-├── imagens/
-│   ├── grafico_alturas.png
-│   ├── grafico_busca.png
-│   └── mapa_ganho_avl.png
 └── README.md
 ```
 
